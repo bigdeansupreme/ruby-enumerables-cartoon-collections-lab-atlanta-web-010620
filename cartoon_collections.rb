@@ -32,6 +32,6 @@ long_planeteer_calls(planeteer_calls)
 
 snacks = %w[popcorn chocolate cheddar ice cream]
 def find_the_cheese(snacks)
-  
+  snacks.find do 
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
